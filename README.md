@@ -1,3 +1,3 @@
-# Save to Google Drive
+# Save to Google Drive Extension
 
-Chrome extension to save web content to Google Drive
+This extension will save downloaded Microsoft Word, PowerPoint, and Excel and PDF files to Google Drive.
