@@ -15,5 +15,8 @@
   "action": {},
   "icons": {
     "128": "icon128.png"
-  }
+  },
+  "update_url": "https://mvillagomez-pgusd.github.io/save-to-drive-extension/updates.xml"
+  
+
 }
