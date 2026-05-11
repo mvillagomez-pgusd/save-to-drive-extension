@@ -1,0 +1,27 @@
+{
+  "manifest_version": 3,
+  "name": "Save Office Files to Google Drive",
+  "version": "1.0",
+  "description": "Intercepts Word, PowerPoint, and Excel file downloads and saves them to Google Drive.",
+  "permissions": [
+    "downloads",
+    "identity"
+  ],
+  "host_permissions": [
+    "<all_urls>",
+    "https://www.googleapis.com/"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "oauth2": {
+    "client_id": "568957721187-h88n5v1lj19r6rmeit1g6a5q809e9pum.apps.googleusercontent.com",
+    "scopes": [
+      "https://www.googleapis.com/auth/drive.file"
+    ]
+  },
+  "action": {},
+  "icons": {
+    "128": "icon128.png"
+  }
+}
