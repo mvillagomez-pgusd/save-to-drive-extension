@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <gupdate xmlns="http://www.google.com/update2/response" protocol="2.0">
-  <app appid="ofdhdjibejfhhapmnjpiklhmmmchablp">
+  <app appid="lpfnanhppcjdihmklanlkmmjlccckjld">
     <updatecheck
       codebase="https://mvillagomez-pgusd.github.io/save-to-drive-extension/dist/1.0.0/save-to-drive-extension.crx"
       version="1.0.0" />
