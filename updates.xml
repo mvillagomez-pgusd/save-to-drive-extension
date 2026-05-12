@@ -2,7 +2,7 @@
 <gupdate xmlns="http://www.google.com/update2/response" protocol="2.0">
   <app appid="lpfnanhppcjdihmklanlkmmjlccckjld">
     <updatecheck
-      codebase="https://mvillagomez-pgusd.github.io/save-to-drive-extension/dist/1.0.0/save-to-drive-extension.crx"
+      codebase="https://mvillagomez-pgusd.github.io/save-to-drive-extension/dist/1.0.0/extension.crx"
       version="1.0.0" />
   </app>
 </gupdate>
